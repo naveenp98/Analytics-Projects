@@ -1,6 +1,6 @@
 # Analyzing Polygence's Progress
 
-## EXERCISE
+## Exercise
 Read the details below for context and analyze our student enrollment journey and help
 us understand aspects of its current health. Use SQL (or Python) - whichever you’re
 most comfortable with.
