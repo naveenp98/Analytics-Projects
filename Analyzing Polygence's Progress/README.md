@@ -5,7 +5,7 @@ Read the details below for context and analyze our student enrollment journey an
 us understand aspects of its current health. Use SQL (or Python) - whichever you’re
 most comfortable with.
 
-    Example questions to consider: Where are the biggest drop-offs in the enrollment
+Example questions to consider: Where are the biggest drop-offs in the enrollment
 journey? Is this associated with anything?
 
 Visualize the most important insights you find and create a brief slide deck. Use Google
