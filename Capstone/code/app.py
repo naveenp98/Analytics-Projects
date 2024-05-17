@@ -53,7 +53,7 @@ def apply_conversion(data, conv_dict):
         data[i] = data[i] * conv_dict[i]
     return data
 
-model = pickle.load(open('code/rf_model.pkl', 'rb'))
+model = pickle.load(open('Capstone/code/rf_model.pkl', 'rb'))
 
 if st.button("Apply Conversion"):
     df = pd.DataFrame(data.values(), index=data.keys()).T
