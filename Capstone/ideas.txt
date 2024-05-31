@@ -1,0 +1,4 @@
+Predicting the Premier League Winners - https://www.football-data.org/client/home
+Darknet classification of network traffic - https://www.unb.ca/cic/datasets/darknet2020.html
+Customer Churn Predictor from CC data - https://www.kaggle.com/code/shawkyelgendy/credit-card-cs-eda-and-ml/notebook
+Water quality prediction

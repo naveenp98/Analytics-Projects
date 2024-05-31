@@ -70,4 +70,3 @@ if st.button("Apply Conversion"):
         st.title(f'Water is not potable')
     else:
         st.title(f'Water is potable')
-
